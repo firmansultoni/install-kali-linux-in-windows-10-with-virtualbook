@@ -5,6 +5,8 @@
 ![image](https://github.com/user-attachments/assets/c5ad6a88-b26f-4175-8f96-c43f7fc3a686)
 ## buka virtualbook dan buat proyek baru dan pilih file iso kali linux yang sudah di download 
 ![Capture2](https://github.com/user-attachments/assets/e3246bed-7df7-4309-ab6c-ce86e9e5ef86)
+## buka pengaturan untuk megatur display, processor, dan jaringan.
+![image](https://github.com/user-attachments/assets/62ae259a-6966-478b-adab-1dfb3bb638e9)
 ## atur memory dan procesor
 ![Capture3](https://github.com/user-attachments/assets/8de0f809-4b97-4ed5-ab16-74429837dafb)
 ## atur hardisk minimal 40 gb
